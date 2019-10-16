@@ -1,0 +1,26 @@
+.sidebar{
+  float: right;
+  background-color: red;
+}
+
+#title{
+  text-align: center;
+}
+#picture1{
+  width: 50%;
+  height: auto;
+  margin-left: 275px;
+  margin-right: 75px;
+  margin-top: 0px;
+}
+
+.column {
+  width: 300px;
+  float:left;
+  margin-left: 40px;
+  margin-top: 10px;
+
+}
+body{
+  background-color: lightblue;
+}
