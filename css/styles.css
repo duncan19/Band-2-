@@ -1,6 +1,7 @@
 .sidebar{
   float: right;
   background-color: red;
+  border: solid green;
 }
 
 #title{
@@ -19,7 +20,9 @@
   float:left;
   margin-left: 40px;
   margin-top: 10px;
-
+  border: solid green;
+  padding: 1%;
+  background-color: lightgreen;
 }
 body{
   background-color: lightblue;
